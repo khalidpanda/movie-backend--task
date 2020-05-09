@@ -1,6 +1,7 @@
 <h1>My name is Khalid Rahman </h1>
 <p>+60172451604</P>
 <p>fube.khalid@gmail.com</p>
+<p>sql file is located at databse folder</p>
 
 
 
